@@ -32,7 +32,7 @@ public static void main(String[] args) {
             System.out.println("Jenis kendaraan tidak valid. Silakan masukkan 1 untuk Mobil, 2 untuk Motor, atau 0 untuk keluar.");
         }
     } while (true);
-    
+
     sc.close();
     }
 }
